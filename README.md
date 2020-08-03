@@ -1,0 +1,2 @@
+# TwemojiDecoderForTwitter
+Twitter Web Appでツイートなどの文章をコピーすると絵文字が正しくコピーされないバグを、Chrome拡張機能で修正します。
